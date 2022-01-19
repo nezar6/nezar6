@@ -1,3 +1,3 @@
-git-clone git@github.com:Dossiernezar
-git init
+git-clone git@github.com:gitgit
+
 
