@@ -1,4 +1,4 @@
-git clone git@github.com:Dossiernezar
+git-clone git@github.com:Dossiernezar
 
 nxdjd
 
